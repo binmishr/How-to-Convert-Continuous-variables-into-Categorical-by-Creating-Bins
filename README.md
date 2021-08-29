@@ -1,0 +1,1 @@
+# How-to-Convert-Continuous-variables-into-Categorical-by-Creating-Bins
